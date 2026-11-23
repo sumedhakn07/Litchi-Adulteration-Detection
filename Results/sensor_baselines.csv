@@ -1,0 +1,5 @@
+Model,Accuracy,Macro_F1,Accuracy (%),Macro F1
+Random Forest,1.0,1.0,100.0,1.0
+XGBoost,1.0,1.0,100.0,1.0
+LightGBM,1.0,1.0,100.0,1.0
+Sensor MLP,1.0,1.0,100.0,1.0

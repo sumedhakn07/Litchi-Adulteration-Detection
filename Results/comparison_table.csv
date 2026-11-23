@@ -1,0 +1,7 @@
+Model,Accuracy,Macro_F1,Accuracy (%),Macro F1
+Random Forest,1.0,1.0,100.0,1.0
+XGBoost,1.0,1.0,100.0,1.0
+LightGBM,1.0,1.0,100.0,1.0
+Sensor MLP,1.0,1.0,100.0,1.0
+Vision Baseline (MobileNet-V3),0.9844444444444445,0.9844442716030178,98.44,0.9844
+GMU Fusion (Ours),0.9977777777777778,0.9977777530861455,99.78,0.9978
