@@ -37,7 +37,7 @@
 
 ---
 
-## 🌟 Explain Like I'm in 10th Grade (The Big Picture)
+## 🌟 The Big Picture
 
 ### 🛒 The Grocery Store Mystery
 Imagine you go to a fruit market to buy a bunch of juicy, bright-red litchis.
@@ -278,7 +278,6 @@ Your browser will open to `http://localhost:8501` automatically! 🎈
 Litchi/
 ├── app.py                     # Streamlit web application
 ├── run_app.bat                # One-click Windows desktop launcher
-├── generate_report.py         # Automated DOCX technical report generator
 ├── models/                    # Trained model weights & scalers
 │   ├── multimodal_gmu.pth     # GMU PyTorch weights (979k params)
 │   ├── vision_baseline.pth    # MobileNet-V3 Small weights (1M params)
